@@ -15,6 +15,7 @@ namespace SimpleChat.VIews
         public TopView()
         {
             // テスト
+            // test
             InitializeComponent();
         }
     }
