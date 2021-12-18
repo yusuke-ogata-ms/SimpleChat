@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChat.WinForm", "SimpleChat\SimpleChat.WinForm.csproj", "{7699B09A-15E0-430C-BC42-61E50CBD00EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7699B09A-15E0-430C-BC42-61E50CBD00EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7699B09A-15E0-430C-BC42-61E50CBD00EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7699B09A-15E0-430C-BC42-61E50CBD00EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7699B09A-15E0-430C-BC42-61E50CBD00EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213715BA-D941-46CD-AB88-98E1BBAF8BBF}
+	EndGlobalSection
+EndGlobal
